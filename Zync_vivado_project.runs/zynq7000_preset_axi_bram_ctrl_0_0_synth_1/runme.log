@@ -1,0 +1,24 @@
+
+*** Running vivado
+    with args -log zynq7000_preset_axi_bram_ctrl_0_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source zynq7000_preset_axi_bram_ctrl_0_0.tcl
+
+
+****** Vivado v2024.1 (64-bit)
+  **** SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+  **** IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+  **** SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+  **** Start of session at: Fri Nov 29 18:26:41 2024
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source zynq7000_preset_axi_bram_ctrl_0_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:09 . Memory (MB): peak = 1446.238 ; gain = 5.965 ; free physical = 3493 ; free virtual = 9312
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: zynq7000_preset_axi_bram_ctrl_0_0
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry f7e809c6f13fa09a to dir: /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.runs/zynq7000_preset_axi_bram_ctrl_0_0_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.cache/ip/2024.1/f/7/f7e809c6f13fa09a/zynq7000_preset_axi_bram_ctrl_0_0_stub.v to /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.runs/zynq7000_preset_axi_bram_ctrl_0_0_synth_1/zynq7000_preset_axi_bram_ctrl_0_0_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.cache/ip/2024.1/f/7/f7e809c6f13fa09a/zynq7000_preset_axi_bram_ctrl_0_0.dcp to /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.runs/zynq7000_preset_axi_bram_ctrl_0_0_synth_1/zynq7000_preset_axi_bram_ctrl_0_0.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.cache/ip/2024.1/f/7/f7e809c6f13fa09a/zynq7000_preset_axi_bram_ctrl_0_0_sim_netlist.vhdl to /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.runs/zynq7000_preset_axi_bram_ctrl_0_0_synth_1/zynq7000_preset_axi_bram_ctrl_0_0_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.cache/ip/2024.1/f/7/f7e809c6f13fa09a/zynq7000_preset_axi_bram_ctrl_0_0_stub.vhdl to /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.runs/zynq7000_preset_axi_bram_ctrl_0_0_synth_1/zynq7000_preset_axi_bram_ctrl_0_0_stub.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.cache/ip/2024.1/f/7/f7e809c6f13fa09a/zynq7000_preset_axi_bram_ctrl_0_0_sim_netlist.v to /home/jayakrushnan/code_base/mybase/Zync_vivado_project/Zync_vivado_project.runs/zynq7000_preset_axi_bram_ctrl_0_0_synth_1/zynq7000_preset_axi_bram_ctrl_0_0_sim_netlist.v.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP zynq7000_preset_axi_bram_ctrl_0_0, cache-ID = f7e809c6f13fa09a.
+INFO: [Common 17-206] Exiting Vivado at Fri Nov 29 18:26:53 2024...
